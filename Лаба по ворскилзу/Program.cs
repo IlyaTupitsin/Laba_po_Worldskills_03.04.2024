@@ -1,4 +1,4 @@
-﻿// найти сумму ((-1)^n*x^2n)/(2n)!;
+﻿//Тупицин Илья группа 22ит35 вариант 14  найти сумму ((-1)^n*x^2n)/(2n)!;
 Console.Write("Введите число x:");
 double x = Convert.ToDouble(Console.ReadLine());
 Console.Write("Введите число y:");
